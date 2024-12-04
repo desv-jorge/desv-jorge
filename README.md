@@ -6,7 +6,7 @@
 - 📫 Me contate através do email: jorgenathanael53@gmail.com
 - 😄 Pronouns: ELE/DELE
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=radical) \n
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desv-jorge&layout=donut)](https://github.com/desv-jorge/github-readme-stats)
  
 <div style="display: inline_block"><br>
