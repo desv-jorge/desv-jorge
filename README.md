@@ -1,10 +1,9 @@
 ## Olá, eu sou Nathanael Jorge
 ## Seja bem vindo ao meu Portfólio
 
-- 🔭 Em busca de uma vaga Fullstack
+- 🔭 Dev Fullstack
 - 🌱 Estudando React e TypeScript
 - 📫 Me contate através do email: jorgenathanael53@gmail.com
-- 😄 Pronouns: ELE/DELE
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=radical) <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desv-jorge&layout=donut)](https://github.com/desv-jorge/github-readme-stats)
