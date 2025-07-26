@@ -15,9 +15,7 @@ Sou **Desenvolvedor Fullstack** apaixonado por tecnologia e sempre buscando apre
 
 ### 📊 Minhas estatísticas no GitHub
 
-![Nathanael Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=radical)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=desv-jorge&layout=donut)](https://github.com/desv-jorge/github-readme-stats)
+![Nathanael Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=radical)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=desv-jorge&layout=donut)](https://github.com/desv-jorge/github-readme-stats)
 
 ---
 
