@@ -8,7 +8,7 @@ Sou **Desenvolvedor Fullstack** apaixonado por tecnologia e sempre buscando apre
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando com desenvolvimento Fullstack
-- 🌱 Atualmente studando **Arquitetura de Cloud (AWS)** e **Docker**
+- 🌱 Atualmente studando **Arquitetura de Cloud (AWS)** , **Docker** , backend com **fastAPI**
 - 📫 Entre em contato comigo: [nathanael.jorge@aluno.uepb.edu.br](mailto:nathanael.jorge@aluno.uepb.edu.br)
 
 ---
