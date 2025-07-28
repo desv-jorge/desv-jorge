@@ -18,6 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
 
 #### Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat&logo=next.js)
@@ -59,5 +60,5 @@
 ---
 
 <p align="center">
-  Feito com 💡 e café por <strong>Nathanael Jorge</strong>
+  Feito com dedicação e café por <strong>Nathanael Jorge</strong>
 </p>
