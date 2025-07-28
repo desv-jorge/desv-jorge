@@ -1,44 +1,63 @@
-# Olá, eu sou Nathanael Jorge 👋
+<h1 align="center">👋 Olá! Eu sou o Nathanael Jorge</h1>
 
-## Bem-vindo ao meu Portfólio
-
-Sou **Desenvolvedor Fullstack** apaixonado por tecnologia e sempre buscando aprender mais.
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando com desenvolvimento Fullstack
-- 🌱 Atualmente estudando **Arquitetura de Cloud (AWS)** , **Docker** , backend com **fastAPI**
-- 📫 Entre em contato comigo: [nathanael.jorge@aluno.uepb.edu.br](mailto:nathanael.jorge@aluno.uepb.edu.br)
+<p align="center">
+  💻 Desenvolvedor Fullstack apaixonado por criar soluções completas, do backend ao frontend<br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UEPB<br>
+  ☁️ Focado em backend com Python/FastAPI, banco de dados NoSQL/SQL e deploys na AWS
+</p>
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
+### 🛠️ Tecnologias que trabalho
 
-![Nathanael Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=radical)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=desv-jorge&layout=donut)](https://github.com/desv-jorge/github-readme-stats)
+#### Backend
+![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat&logo=next.js)
+
+#### Outros
+![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🚀 Projetos em Destaque
 
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+- 🛍️ [**Management-System**](https://github.com/desv-jorge/Management-System)  
+  Sistema real para gerenciamento de uma loja de celulares. Inclui cadastro e controle de estoque de produtos, gerenciamento de clientes, sistema de envio de e-mails (notificações, confirmação de ações), e muito mais.  
+  → Tecnologias: FastAPI, MongoDB, SMTP, EmailMessage
+
+- 🎬 [**MovieApp**](https://github.com/desv-jorge/MovieApp)  
+  Aplicação fullstack para listagem e exibição de filmes. Backend em FastAPI, frontend com React. Hospedada na AWS (EC2), com rotas RESTful e gerenciamento de usuários.  
+  → Tecnologias: FastAPI, React, Axios, EC2
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=desv-jorge&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desv-jorge&layout=compact&theme=dracula" height="160"/>
 </div>
 
 ---
 
-### 📌 Links úteis
+### 🤝 Vamos conversar?
 
-- [Meu LinkedIn](https://www.linkedin.com/in/jorge-nathanael)
+- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/nathanaeljorge/)
+- 📫 Entre em contato comigo: [nathanael.jorge@aluno.uepb.edu.br](mailto:nathanael.jorge@aluno.uepb.edu.br)
+- 💬 Gosto de trocar ideias sobre backend, cloud, automação e boas práticas de arquitetura
 
 ---
 
-Obrigado por visitar! Sinta-se à vontade para entrar em contato ou dar uma estrela nos meus projetos ⭐
+<p align="center">
+  Feito com 💡 e café por <strong>Nathanael Jorge</strong>
+</p>
