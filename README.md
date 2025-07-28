@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Nathanael Jorge</h1>
 
-<p align="center">
+<p align="start">
   💻 Desenvolvedor Fullstack apaixonado por criar soluções completas, do backend ao frontend<br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UEPB<br>
   ☁️ Focado em backend com Python/FastAPI, banco de dados NoSQL/SQL e deploys na AWS
