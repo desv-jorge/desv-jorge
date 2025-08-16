@@ -10,84 +10,44 @@
 
 ### 🛠️ Tecnologias que trabalho
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div align="center">
 
 <!-- Backend -->
 <h3>Backend</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <div style="background-color:#306998; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-    <span>Python</span>
-  </div>
-  <div style="background-color:#009688; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40"/>
-    <span>FastAPI</span>
-  </div>
-  <div style="background-color:#68A063; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-    <span>Node.js</span>
-  </div>
-  <div style="background-color:#47A248; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-    <span>MongoDB</span>
-  </div>
-  <div style="background-color:#336791; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-    <span>PostgreSQL</span>
-  </div>
-</div>
-
-<!-- Frontend -->
-<h3>Frontend</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <div style="background-color:#3178C6; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-    <span>TypeScript</span>
-  </div>
-  <div style="background-color:#F7DF1E; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:black;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-    <span>JavaScript</span>
-  </div>
-  <div style="background-color:#61DAFB; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:black;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-    <span>React</span>
-  </div>
-  <div style="background-color:#000000; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-    <span>Next.js</span>
-  </div>
-</div>
-
-<!-- DevOps -->
-<h3>DevOps</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <div style="background-color:#232F3E; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-    <span>AWS</span>
-  </div>
-  <div style="background-color:#F05032; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-    <span>Git</span>
-  </div>
-  <div style="background-color:#000000; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-    <span>Linux</span>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 <!-- IA -->
 <h3>IA</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <div style="background-color:#4B0082; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/LLM_icon.png" width="40"/>
-    <span>LLM</span>
-  </div>
-  <div style="background-color:#FF6600; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/LangChain_logo.svg" width="40"/>
-    <span>LangChain</span>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/LangChain-2E8BFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Engineering-FF6600?style=for-the-badge&logo=openai&logoColor=white"/>
 
+<!-- Frontend -->
+<h3>Frontend</h3>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<!-- Banco de Dados -->
+<h3>Banco de Dados</h3>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graph%20Databases-F05032?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Embeddings-E91E63?style=for-the-badge&logo=embarcadero&logoColor=white"/>
+
+<!-- DevOps -->
+<h3>DevOps</h3>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</div>
 
 ---
 
