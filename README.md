@@ -13,69 +13,81 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
 <!-- Backend -->
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #306998; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <p>Python</p>
-</div>
-
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #009688; color: white; width: 100px;">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" alt="FastAPI"/>
-  <p>FastAPI</p>
-</div>
-
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #68A063; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <p>Node.js</p>
-</div>
-
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #47A248; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <p>MongoDB</p>
-</div>
-
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #336791; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <p>PostgreSQL</p>
+<h3>Backend</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <div style="background-color:#306998; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    <span>Python</span>
+  </div>
+  <div style="background-color:#009688; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40"/>
+    <span>FastAPI</span>
+  </div>
+  <div style="background-color:#68A063; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+    <span>Node.js</span>
+  </div>
+  <div style="background-color:#47A248; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+    <span>MongoDB</span>
+  </div>
+  <div style="background-color:#336791; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+    <span>PostgreSQL</span>
+  </div>
 </div>
 
 <!-- Frontend -->
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #3178C6; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <p>TypeScript</p>
+<h3>Frontend</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <div style="background-color:#3178C6; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+    <span>TypeScript</span>
+  </div>
+  <div style="background-color:#F7DF1E; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:black;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+    <span>JavaScript</span>
+  </div>
+  <div style="background-color:#61DAFB; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:black;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+    <span>React</span>
+  </div>
+  <div style="background-color:#000000; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+    <span>Next.js</span>
+  </div>
 </div>
 
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #F7DF1E; color: black; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <p>JavaScript</p>
+<!-- DevOps -->
+<h3>DevOps</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <div style="background-color:#232F3E; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+    <span>AWS</span>
+  </div>
+  <div style="background-color:#F05032; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+    <span>Git</span>
+  </div>
+  <div style="background-color:#000000; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+    <span>Linux</span>
+  </div>
 </div>
 
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #61DAFB; color: black; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <p>React</p>
+<!-- IA -->
+<h3>IA</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <div style="background-color:#4B0082; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/LLM_icon.png" width="40"/>
+    <span>LLM</span>
+  </div>
+  <div style="background-color:#FF6600; width:100px; height:100px; border-radius:12px; display:flex; flex-direction:column; align-items:center; justify-content:center; color:white;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/LangChain_logo.svg" width="40"/>
+    <span>LangChain</span>
+  </div>
 </div>
 
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #000000; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <p>Next.js</p>
-</div>
-
-<!-- Cloud & Tools -->
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #232F3E; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS"/>
-  <p>AWS</p>
-</div>
-
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #F05032; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <p>Git</p>
-</div>
-
-<div align="center" style="padding: 10px; border-radius: 12px; background-color: #000000; color: white; width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <p>Linux</p>
-</div>
-
-</div>
 
 ---
 
