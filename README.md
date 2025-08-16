@@ -15,18 +15,26 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
+![MongoEngine](https://img.shields.io/badge/-MongoEngine-181717?style=flat)
+![Pymongo](https://img.shields.io/badge/-PyMongo-181717?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
+![JWT](https://img.shields.io/badge/-JWT-181717?style=flat)
+![SMTP](https://img.shields.io/badge/-SMTP-181717?style=flat)
+![EmailMessage](https://img.shields.io/badge/-EmailMessage-181717?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-181717?style=flat&logo=tailwind-css)
 
-#### Outros
-![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
+#### DevOps / Cloud
 ![AWS](https://img.shields.io/badge/-AWS-181717?style=flat&logo=amazonaws)
-![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
+![EC2](https://img.shields.io/badge/-EC2-181717?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=flat)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat)
 
 ---
 
@@ -34,11 +42,11 @@
 
 - 🛍️ [**Management-System**](https://github.com/desv-jorge/Management-System)  
   Sistema real para gerenciamento de uma loja de celulares. Inclui cadastro e controle de estoque de produtos, gerenciamento de clientes, sistema de envio de e-mails (notificações, confirmação de ações), e muito mais.  
-  → Tecnologias: FastAPI, MongoDB, SMTP, EmailMessage
+  → Tecnologias: FastAPI, MongoDB, MongoEngine, Pymongo, SMTP, EmailMessage, Docker
 
 - 🎬 [**MovieApp**](https://github.com/desv-jorge/MovieApp)  
   Aplicação fullstack para listagem e exibição de filmes. Backend em FastAPI, frontend com React. Hospedada na AWS (EC2), com rotas RESTful e gerenciamento de usuários.  
-  → Tecnologias: FastAPI, React, Axios, EC2
+  → Tecnologias: FastAPI, React, Axios, EC2, Docker
 
 ---
 
