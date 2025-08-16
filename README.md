@@ -3,7 +3,7 @@
 <p align="start">
   💻 Desenvolvedor Fullstack apaixonado por criar soluções completas, do backend ao frontend<br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UEPB<br>
-  ☁️ Focado em backend com Python/FastAPI, banco de dados NoSQL/SQL e deploys na AWS
+  ☁️ Focado em backend com Python/FastAPI, LLM Engineering, banco de dados SQL/NoSQL/Graph e deploys na AWS
 </p>
 
 ---
@@ -15,12 +15,15 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
+![Neo4j](https://img.shields.io/badge/-Neo4j-181717?style=flat&logo=neo4j)
 ![MongoEngine](https://img.shields.io/badge/-MongoEngine-181717?style=flat)
 ![Pymongo](https://img.shields.io/badge/-PyMongo-181717?style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
 ![JWT](https://img.shields.io/badge/-JWT-181717?style=flat)
 ![SMTP](https://img.shields.io/badge/-SMTP-181717?style=flat)
 ![EmailMessage](https://img.shields.io/badge/-EmailMessage-181717?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-181717?style=flat)
+![LLM](https://img.shields.io/badge/-LLM-181717?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 
 #### Frontend
@@ -63,7 +66,7 @@
 
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/nathanaeljorge/)
 - 📫 Entre em contato comigo: [nathanael.jorge@aluno.uepb.edu.br](mailto:nathanael.jorge@aluno.uepb.edu.br)
-- 💬 Gosto de trocar ideias sobre backend, cloud, automação e boas práticas de arquitetura
+- 💬 Gosto de trocar ideias sobre backend, cloud, LLM, automação e boas práticas de arquitetura
 
 ---
 
