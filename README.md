@@ -1,55 +1,62 @@
 <h1 align="center">👋 Olá! Eu sou o Nathanael Jorge</h1>
 
-<p align="start">
-  💻 Desenvolvedor Fullstack apaixonado por criar soluções completas, do backend ao frontend<br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UEPB<br>
-  ☁️ Focado em backend com Python/FastAPI, LLM Engineering, banco de dados SQL/NoSQL/Graph e deploys na AWS
+<p align="center">
+💻 Desenvolvedor Fullstack | LLM Engineering | LangChain | FastAPI | React.js | AWS | SQL/NoSQL | Graph Databases
 </p>
 
 ---
 
 ### 🛠️ Tecnologias que trabalho
 
+<div align="center">
+
 #### Backend
-![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi)
-![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
-![Neo4j](https://img.shields.io/badge/-Neo4j-181717?style=flat&logo=neo4j)
-![MongoEngine](https://img.shields.io/badge/-MongoEngine-181717?style=flat)
-![Pymongo](https://img.shields.io/badge/-PyMongo-181717?style=flat)
-![JWT](https://img.shields.io/badge/-JWT-181717?style=flat)
-![SMTP](https://img.shields.io/badge/-SMTP-181717?style=flat)
-![EmailMessage](https://img.shields.io/badge/-EmailMessage-181717?style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-181717?style=flat)
-![LLM](https://img.shields.io/badge/-LLM-181717?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" title="Python" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60" height="60" title="FastAPI" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" title="PostgreSQL" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="60" height="60" title="Neo4j" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" title="Docker" /></a>
+<a href="#"><img src="https://img.icons8.com/color/60/000000/jwt.png" width="60" height="60" title="JWT" /></a>
+<a href="#"><img src="https://img.icons8.com/color/60/000000/smtp.png" width="60" height="60" title="SMTP" /></a>
+<a href="#"><img src="https://img.icons8.com/color/60/000000/email.png" width="60" height="60" title="EmailMessage" /></a>
+<a href="#"><img src="https://img.icons8.com/color/60/000000/langchain.png" width="60" height="60" title="LangChain" /></a>
+<a href="#"><img src="https://img.icons8.com/color/60/000000/artificial-intelligence.png" width="60" height="60" title="LLM" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/placeholder.png" width="60" height="60" title="MongoEngine" /></a>
+
+</div>
+
+<div align="center">
 
 #### Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-181717?style=flat&logo=tailwind-css)
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" title="TypeScript" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" title="React" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" title="Next.js" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" title="Tailwind CSS" /></a>
+
+</div>
+
+<div align="center">
 
 #### DevOps / Cloud
-![AWS](https://img.shields.io/badge/-AWS-181717?style=flat&logo=amazonaws)
-![EC2](https://img.shields.io/badge/-EC2-181717?style=flat)
-![Linux](https://img.shields.io/badge/-Linux-181717?style=flat)
-![Git](https://img.shields.io/badge/-Git-181717?style=flat)
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="60" height="60" title="AWS" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" title="Linux" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" title="Git" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" title="Docker" /></a>
+
+</div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
 - 🛍️ [**Management-System**](https://github.com/desv-jorge/Management-System)  
-  Sistema real para gerenciamento de uma loja de celulares. Inclui cadastro e controle de estoque de produtos, gerenciamento de clientes, sistema de envio de e-mails (notificações, confirmação de ações), e muito mais.  
-  → Tecnologias: FastAPI, MongoDB, MongoEngine, Pymongo, SMTP, EmailMessage, Docker
+  Sistema real para gerenciamento de uma loja de celulares. Backend em FastAPI, MongoDB, MongoEngine e Pymongo. Sistema de envio de e-mails (SMTP, EmailMessage) e Docker.
 
 - 🎬 [**MovieApp**](https://github.com/desv-jorge/MovieApp)  
-  Aplicação fullstack para listagem e exibição de filmes. Backend em FastAPI, frontend com React. Hospedada na AWS (EC2), com rotas RESTful e gerenciamento de usuários.  
-  → Tecnologias: FastAPI, React, Axios, EC2, Docker
+  Aplicação fullstack para listagem e exibição de filmes. Backend em FastAPI, frontend em React, hospedagem na AWS (EC2) e containerizada com Docker.
 
 ---
 
@@ -64,9 +71,9 @@
 
 ### 🤝 Vamos conversar?
 
-- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/nathanaeljorge/)
-- 📫 Entre em contato comigo: [nathanael.jorge@aluno.uepb.edu.br](mailto:nathanael.jorge@aluno.uepb.edu.br)
-- 💬 Gosto de trocar ideias sobre backend, cloud, LLM, automação e boas práticas de arquitetura
+- 📫 [LinkedIn](https://www.linkedin.com/in/nathanaeljorge/)  
+- 📫 [E-mail](mailto:nathanael.jorge@aluno.uepb.edu.br)  
+- 💬 Gosto de trocar ideias sobre backend, cloud, LLM e automação
 
 ---
 
