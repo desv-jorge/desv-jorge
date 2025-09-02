@@ -42,13 +42,13 @@
 ## 📂 Projetos em Destaque
 
 - **🛍️ Management System**  
-  Sistema real para gerenciamento de uma loja de celulares.  
+  -  Sistema real para gerenciamento de uma loja de celulares.  
   Inclui cadastro e controle de estoque, gerenciamento de clientes, envio de e-mails e muito mais.  
   → **Stack:** FastAPI, MongoDB, SMTP, EmailMessage  
   🔗 [Repositório](https://github.com/desv-jorge/Management-System)
 
 - **🤖 Davince**
-  Chatbot de IA com a persona de Leonardo Da Vinci, focado em fornecer suporte técnico preciso e instantâneo.
+  -  Chatbot de IA com a persona de Leonardo Da Vinci, focado em fornecer suporte técnico preciso e instantâneo.
   Utiliza **RAG** para garantir respostas seguras, mantendo o **contexto da conversa** para uma experiência fluida.
   → **Stack:** FastAPI, langchain, Redis, MongoDB, React  
   🔗 [Repositório](https://github.com/Fyzz-Tech/Davince)
