@@ -47,11 +47,11 @@
   → **Stack:** FastAPI, MongoDB, SMTP, EmailMessage  
   🔗 [Repositório](https://github.com/desv-jorge/Management-System)
 
-- **🎬 MovieApp**  
-  Aplicação fullstack para listagem e exibição de filmes.  
-  Backend em FastAPI, frontend com React, hospedada na AWS (EC2).  
-  → **Stack:** FastAPI, React, Axios, EC2  
-  🔗 [Repositório](https://github.com/desv-jorge/MovieApp)
+  - **🤖 Davince**
+  Chatbot de IA com a persona de Leonardo Da Vinci, focado em fornecer suporte técnico preciso e instantâneo.
+  Utiliza **RAG** para garantir respostas seguras, mantendo o **contexto da conversa** para uma experiência fluida.
+  → **Stack:** FastAPI, langchain, Redis, MongoDB, React  
+  🔗 [Repositório](https://github.com/Fyzz-Tech/Davince)
 
 ---
 
