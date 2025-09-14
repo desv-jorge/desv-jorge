@@ -67,7 +67,7 @@
 
 ## 📬 Contato
 - **LinkedIn**: [Nathanael Jorge](https://www.linkedin.com/in/nathanaeljorge/)  
-- **Email**: [nathanael.jorge@aluno.uepb.edu.br](mailto:nathanael.jorge@aluno.uepb.edu.br)  
+- **Email**: [jorgenathanaeldev@gmail.com](mailto:jorgenathanaeldev@gmail.com)  
 
 💬 Gosto de trocar ideias sobre **backend, cloud, automação e boas práticas de arquitetura**.  
 
