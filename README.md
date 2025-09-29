@@ -66,7 +66,7 @@
 ---
 
 ## 📬 Contato
-- **LinkedIn**: [Nathanael Jorge](www.linkedin.com/in/jorge-nathanael)  
+- **LinkedIn**: [Nathanael Jorge](https://www.linkedin.com/in/jorge-nathanael)  
 - **Email**: [jorgenathanaeldev@gmail.com](mailto:jorgenathanaeldev@gmail.com)  
 
 💬 Gosto de trocar ideias sobre **backend, cloud, automação e boas práticas de arquitetura**.  
